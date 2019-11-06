@@ -1,8 +1,8 @@
-![](https://github.com/RameshAditya/asciify/blob/master/github-resources/logo.JPG)
+![](github-resources/logo.JPG)
 # Convert Images into ASCII Art with the power of Python
 
 
-![](https://github.com/RameshAditya/asciify/blob/master/github-resources/sample.gif)
+![](github-resources/sample.gif)
 
 ## Contents
 - [What ASCIIFY is](#what-asciify-is)
@@ -16,7 +16,7 @@ ASCIIFY is a python script that takes in as input an image, and returns a text o
 In other words, it replicates an image with certain characters.
 
 For example, when the following image of Octocat - 
-![](https://github.com/RameshAditya/asciify/blob/master/octocat.png)
+![](github-resources/octocat.png)
 
 is passed as a parameter into ASCIIFY, the following output is observed -
 
