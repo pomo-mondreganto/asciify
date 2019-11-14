@@ -81,7 +81,6 @@ def convert(image_path, result_path, out_width):
 
     image = do(image, new_width=out_width)
 
-    print(result_path)
     with open(result_path, 'w') as f:
         f.write(image)
 
